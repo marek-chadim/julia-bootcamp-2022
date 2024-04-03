@@ -1,5 +1,4 @@
-NAME          
-OBJSENSE MIN
+NAME
 ROWS
  N  OBJ
  G  c1
